@@ -1,0 +1,7 @@
+[
+    {
+        "key": "alt+l alt+o",
+        "command": "workbench.action.tasks.runTask",
+        "args": "Open Frontend"
+    }
+]
